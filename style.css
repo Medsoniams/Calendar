@@ -12,14 +12,10 @@ body {
   height: 100vh;
   margin: 0;
 
-  /* BEGIN (write your solution here) */
   color: #fff;
-  font: 16px/1 Rubik-Regular, sans-serif;
-
-  /* END */
+  font: normal 16px/1 Rubik, sans-serif;
 }
 
-/* BEGIN (write your solution here) */
 .calendar {
   width: 250px;
   margin: 0 auto;
@@ -33,7 +29,7 @@ body {
 .calendar-header {
   margin: 0 0 30px;
 
-  font: 16px/1 Rubik-Bold, sans-serif;
+  font: bold 16px/1 Rubik, sans-serif;
   text-align: center;
 }
 
@@ -70,5 +66,3 @@ td {
   color: #ccc;
   font-size: 10px;
 }
-
-/* END */
